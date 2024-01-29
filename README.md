@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 📫 You can reach me at **yayarezai8@gmail.com**
+- 📫 You can reach me at **linkedin.com/in/yayarezai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
