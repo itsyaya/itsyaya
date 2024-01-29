@@ -1,15 +1,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://itsyaya.io)
 <h1 align="center">Hi there👋 I'm Yaya Rezai</h1>
-<h3 align="center">A junior software engineer</h3>
+<h3 align="center">Junior software engineer</h3>
 <img align="right" alt="Code" Width="600" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsyaya&label=Profile%20views&color=0e75b6&style=flat" alt="itsyaya" /> </p>
 
-- 🔭 I’m currently working on [Community_for8](https://github.com/itsyaya/community_for8)
+- 🌱 I’m currently learning **Java Script**
 
-- 🌱 I’m currently learning **Ruby and React**
-
-- 📫 How to reach me **yayarezai8@gmail.com**
+- 📫 You can reach me at **yayarezai8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
