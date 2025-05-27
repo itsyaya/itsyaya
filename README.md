@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://itsyaya.io)
-<h1 align="center">Hi👋 I'm Yaya Rezai</h1>
+<h1 align="center">Hi👋 I'm Yaya </h1>
 <h3 align="center">Junior software engineer</h3>
 <img align="right" alt="Code" Width="600" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
 
