@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsyaya&label=Profile%20views&color=0e75b6&style=flat" alt="itsyaya" /> </p>
 
-- 🌱 I’m currently learning **Java **
+- 🌱 I’m currently learning Java 
 
 - 📫 You can reach me at **linkedin.com/in/yayarezai**
 
