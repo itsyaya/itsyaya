@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsyaya&label=Profile%20views&color=0e75b6&style=flat" alt="itsyaya" /> </p>
 
 - I’m learning **Java**
-- 
-
 - You can reach me at **linkedin.com/in/yayarezai**
 
 <h3 align="left">Connect with me:</h3>
