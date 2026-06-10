@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">IT Student  | Developer| Networking & Cyber Security</h3>
+<h3 align="center">IT Student  | Developer | Networking & Cyber Security</h3>
 
 <img align="right" alt="Coding" width="450" src="https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif">
 
